@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="heading">Income Tax Calculator</string>
+    <string name="amount">Enter Salary</string>
+    <string name="ok">Calculate</string>
+    <string-array name="rate">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+</resources>
